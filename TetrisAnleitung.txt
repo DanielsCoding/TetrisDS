@@ -1,0 +1,7 @@
+Anleitung Tetris1.0: 
+Steuerrung:
+-Pfeiltasten rechts und links zum bewegen des Blockes, nach rechts und links
+-Pfeiltaste runter gedrückt halten um Teil schneller fallen zu lassen
+-Taste"A" zum drehen des Blcokes
+-Taste"C" zum ändern der Hintergrundfarbe(6 optionale Farben)
+
